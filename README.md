@@ -8,8 +8,7 @@ I'm working on my master's in Data Science student at UMBC and have a background
 - DATA 602, 605, 607, 613
 
 #### Tools & Skills
-- Python (Pandas, NumPy, scikit-learn, Matplotlib), SQL
+- Python (pandas, numpy, scikit-learn, matplotlib), SQL
 
-#### Contact Me
-- catherine.newberry@gmail.com
-- [[LinkedIn](https://www.linkedin.com/in/catherine-newberry-3021abb/)]
+#### Contact 
+- catherine.newberry@gmail.com, [[LinkedIn](https://www.linkedin.com/in/catherine-newberry-3021abb/)]
