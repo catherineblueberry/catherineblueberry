@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Catherine
 
-<!--
-**catherineblueberry/catherineblueberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on my master's in Data Science student at UMBC and have a background in energy and financial analytics. 
 
-Here are some ideas to get you started:
+## Current Coursework - Spring 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DATA 601 – Intro to Data Science
+- DATA 604 - Data Mgmt
+- DATA 608 – Probability and Stats for DS
+- (Upcoming: DATA 602, 605, 607, and 621)
+
+## Upcoming Coursework
+- DATA 607 (Summer 2025)
+- DATA 602 (Fall 2025)
+- DATA 605 (Fall 2025)
+- DATA 613 (Fall 2025)
+
+## Tools & Skills
+
+- Python (Pandas, NumPy, scikit-learn, Matplotlib)
+- Jupyter Notebooks, Google Colab, VS Code
+- SQL
+- Tableau
+
+## Contact Me
+
+- 📧 catherine.newberry@gmail.com
+- 💼 [[LinkedIn](https://www.linkedin.com/in/catherine-newberry-3021abb/)]
