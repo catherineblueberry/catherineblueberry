@@ -1,22 +1,14 @@
 #### Hi, I'm Catherine
 I'm working on my master's in Data Science student at UMBC and have a background in energy and financial analytics. 
 
-#### Current Coursework - Spring 2025
-- DATA 601 – Intro to Data Science
-- DATA 604 - Data Mgmt
-- DATA 608 – Probability and Stats for DS
+#### Coursework - Spring 2025
+- DATA 601, 604, 608 
 
 #### Upcoming Coursework
-- DATA 607 (Summer 2025)
-- DATA 602 (Fall 2025)
-- DATA 605 (Fall 2025)
-- DATA 613 (Fall 2025)
+- DATA 602, 605, 607, 613
 
 #### Tools & Skills
-- Python (Pandas, NumPy, scikit-learn, Matplotlib)
-- Jupyter Notebooks, Google Colab, VS Code
-- SQL
-- Tableau
+- Python (Pandas, NumPy, scikit-learn, Matplotlib), SQL
 
 #### Contact Me
 - catherine.newberry@gmail.com
