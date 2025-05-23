@@ -11,4 +11,4 @@ I'm working on my master's in Data Science student at UMBC and have a background
 - Python (pandas, numpy, scikit-learn, matplotlib), SQL
 
 #### Contact 
-- catherine.newberry@gmail.com, [[LinkedIn](https://www.linkedin.com/in/catherine-newberry-3021abb/)]
+- catherine.newberry@gmail.com, [LinkedIn](https://www.linkedin.com/in/catherine-newberry-3021abb/)
